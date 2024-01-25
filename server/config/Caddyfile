@@ -1,0 +1,7 @@
+app1.local {
+    reverse_proxy app1
+}
+
+app2.local {
+    reverse_proxy app2
+}
