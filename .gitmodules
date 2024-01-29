@@ -1,0 +1,3 @@
+[submodule "file_upload_service"]
+	path = file_upload_service
+	url = git@github.com:gpetraroli/file_upload_service.git
